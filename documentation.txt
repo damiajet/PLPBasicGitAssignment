@@ -1,0 +1,6 @@
+Initialize the repository using git init
+connect to github using git remote <link_to_github_repo>
+use echo to create and write a file as preferred
+use git push to push to a remote repo
+git add <filename> to add a file to be staged
+git commit -m and add a commit message

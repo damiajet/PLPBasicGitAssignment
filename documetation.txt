@@ -1,0 +1,2 @@
+#Documentation
+From anywhere on your local machine navigate to the dedicated folder using cd <folderpath>
